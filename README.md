@@ -90,9 +90,9 @@ void loop() {
  ![image](https://github.com/anishkumar-Embedded/Automatic-Light-control-using-Arduino-Controller/assets/71547910/9cc7f0aa-0cfc-46a2-87ff-de5d31221c0a)
 ## OUTPUT:
 
-<img width="576" height="225" alt="Screenshot 2026-10-14 143721" src="https://github.com/user-attachments/assets/852a07c0-c9fd-4451-94f7-872b608d493e" />
+<img width="576" height="275" alt="Screenshot 2026-10-14 143721" src="https://github.com/user-attachments/assets/852a07c0-c9fd-4451-94f7-872b608d493e" />
 
-<img width="577" height="221" alt="Screenshot 2026-10-14 143849" src="https://github.com/user-attachments/assets/93e19040-e894-40df-a74c-9083b9a2858c" />
+<img width="577" height="271" alt="Screenshot 2026-10-14 143849" src="https://github.com/user-attachments/assets/93e19040-e894-40df-a74c-9083b9a2858c" />
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
